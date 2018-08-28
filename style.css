@@ -1,0 +1,47 @@
+nav ul{
+	position: absolute;
+	padding: 0;
+	text-align: center;
+	margin-left: 700px;
+	margin-top: -130px;
+
+}
+
+nav ul li{
+	display: inline-block;
+	position: center;
+	padding: 20px;
+}
+
+nav ul li a{
+	position: center;
+	padding: 5px 0px;
+	color: #ffffff;
+	font-size: 30px;
+	font-family: Montserrat;
+	text-decoration: none;
+}
+
+h1{
+	font-size: 48px;
+	font-style: normal;
+	margin-left: 80px;
+	margin-top: 143px;
+	font-family: Montserrat;
+	color: #ffffff;
+}
+
+h2{
+	font-style: normal;
+	font-size: 24px;
+	text-align: justify;
+	margin-right: 500px;
+	margin-left: 80px;
+	margin-top: 17px;
+	font-family: Montserrat;
+	color: #ffffff;
+}
+img{
+	margin-left: 16px;
+	margin-top: 50px;
+}
